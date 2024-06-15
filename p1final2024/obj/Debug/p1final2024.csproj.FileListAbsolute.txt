@@ -1,0 +1,5 @@
+C:\Users\LEGYON\Downloads\p1final2024-master\p1final2024\obj\Debug\p1final2024.csproj.AssemblyReference.cache
+C:\Users\LEGYON\Downloads\p1final2024-master\p1final2024\obj\Debug\p1final2024.Articulos.resources
+C:\Users\LEGYON\Downloads\p1final2024-master\p1final2024\obj\Debug\p1final2024.Properties.Resources.resources
+C:\Users\LEGYON\Downloads\p1final2024-master\p1final2024\obj\Debug\p1final2024.csproj.GenerateResource.cache
+C:\Users\LEGYON\Downloads\p1final2024-master\p1final2024\obj\Debug\p1final2024.csproj.CoreCompileInputs.cache
